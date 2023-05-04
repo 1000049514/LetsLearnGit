@@ -1,4 +1,6 @@
-int function(int a int b)
+async int function(int a ,int b)
 {
-    return a+ b
+    console.log(a+b);
+    return a+ b;
+
 }
